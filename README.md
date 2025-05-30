@@ -72,6 +72,6 @@ This project is for academic purposes. All rights reserved by the authors.
 
 ## 🙌 Acknowledgements
 
-- VIT School of Computer Science and Engineering  
+
 - Protégé OWL Editor  
 - Scikit-learn & RDFLib communities
